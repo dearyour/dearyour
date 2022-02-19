@@ -1,27 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdearyour&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)          
-![dearyour's github stats](https://github-readme-stats.vercel.app/api?username=dearyour&show_icons=true)
-
-
-
-
-<!--
-**dearyour/dearyour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 # dearyour&nbsp;<img src="https://github.com/dearyour/dearyour/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%dearyour%dearyour)](https://hits.seeyoufarm.com) 
 
@@ -36,7 +13,7 @@ Here are some ideas to get you started:
     <b>더 나은 상태관리에 대해</b>✨ <b>고민하고</b>🎉 소프트웨어를 만들고 싶습니다. 
   </em>  
 </p>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdearyour&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 ![dearyour's github stats](https://github-readme-stats.vercel.app/api?username=dearyour&show_icons=true)
 [![dearyour's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dearyour&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dearyour)
     
@@ -55,6 +32,32 @@ Here are some ideas to get you started:
 
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+    
+    
+  <!--  
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdearyour&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)          
+![dearyour's github stats](https://github-readme-stats.vercel.app/api?username=dearyour&show_icons=true)
+
+-->
+
+
+<!--
+**dearyour/dearyour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+    
+    
+    
     
     <!--    
 ### Online Judge 💻
