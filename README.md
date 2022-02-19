@@ -38,15 +38,15 @@ Here are some ideas to get you started:
 </p>
 
 ![dearyour's github stats](https://github-readme-stats.vercel.app/api?username=dearyour&show_icons=true)
-[![dearyour's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kinetic27&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kinetic27)
+[![dearyour's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dearyour&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dearyour)
     
     
 ### Online Judge 💻
 
-* BOJ: [dearyour](http://icpc.me/kinetic27)
-  * solvedac: [dearyour](https://solved.ac/profile/kinetic27)
+* BOJ: [dearyour](http://icpc.me/dearyour)
+  * solvedac: [dearyour](https://solved.ac/profile/dearyour)
   
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dearyour)](https://solved.ac/dearyour)
 
 <!--
 ### Project ⚡
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 * Development Diary Blog([blog](https://velog.io/@dear))
   <!--<div align=center>-->
   
-[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/) 
+[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://dearyour.github.io/)](https://dearyour.github.io/) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
 
   
