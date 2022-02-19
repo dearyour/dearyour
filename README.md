@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 ### Contacts 📫
 
 * Github Repo Issue 
-* Twitter DM: @dev_kinetic
-* Email: aheui@kakao.com
-
+* instagram DM: @kimyonghee1
+* Email: kimyh2725@naver.com
+* Development Diary Blog([blog](https://velog.io/@dear))
   <!--<div align=center>-->
   
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/) 
