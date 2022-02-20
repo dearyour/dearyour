@@ -2,7 +2,7 @@
 
 # dearyour&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdearyour&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-###  [ React ] , [Next.js] , [TypeScript] , [ redux ] , [ redux-saga ] , [ redux-toolkit ] !&nbsp;
+###  [ React ] , [ Next.js ] , [ TypeScript ] , [ redux ] , [ redux-saga ] , [ redux-toolkit ] !&nbsp;
 
 ![dearyour's github stats](https://github-readme-stats.vercel.app/api?username=dearyour&show_icons=true)
 [![dearyour's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dearyour&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dearyour)
