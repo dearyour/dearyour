@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 <br>
 </div>
+
 ###  [ React ] , [ Next.js ] , [ TypeScript ] , [ redux ] , [ redux-saga ] , [ redux-toolkit ] !&nbsp;
+
 
 ![dearyour's github stats](https://github-readme-stats.vercel.app/api?username=dearyour&show_icons=true)
 [![dearyour's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dearyour&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dearyour)
