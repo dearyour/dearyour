@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 <br>
+    
+<img src="https://img.shields.io/badge/jira-010101?style=for-the-badge&logo=jira&logoColor=white">
 </div>
 
 ###  [ React ] , [ Next.js ] , [ TypeScript ] , [ redux ] , [ redux-saga ] , [ redux-toolkit ] !&nbsp;
