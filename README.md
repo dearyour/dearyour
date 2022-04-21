@@ -28,9 +28,9 @@
 <br> -->
     
 <img src="https://img.shields.io/badge/Jira Software-0052CC?style=for-the-badge&logo=Jira Software&logoColor=white">
-<br>
 </div>
 
+#
 <!-- ###  [ React ] , [ Next.js ] , [ TypeScript ] , [ redux ] , [ redux-saga ] , [ redux-toolkit ] !&nbsp; -->
 
 
