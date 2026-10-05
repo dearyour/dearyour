@@ -36,9 +36,6 @@
 
 ### Contacts 📫
 
-* Email: kimyh2725@naver.com
-
-  
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@dear/)](https://velog.io/@dear/) 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
