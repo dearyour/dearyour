@@ -41,14 +41,6 @@ React · Next.js · TypeScript로 웹을 만들고, 새로운 인터랙션과 �
 
 <br />
 
-## ↗ Notes &amp; connections
-
-개발하며 배운 것과 고민한 과정을 기록합니다.
-
-**[Velog · 개발 기록 읽기 →](https://velog.io/@dear/)**
-
-<br />
-
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Always curious. Always building." />
 </p>
