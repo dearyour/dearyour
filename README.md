@@ -4,12 +4,10 @@
 
 <div align="center">
 
-### 아이디어를 화면으로, 화면을 경험으로.
+### AI 
 
-<p>안녕하세요, 프론트엔드 개발자 <strong>김용희(dearyour)</strong>입니다.<br />
 React · Next.js · TypeScript로 웹을 만들고, 새로운 인터랙션과 도구를 실험합니다.</p>
 
-**[기술 블로그 ↗](https://velog.io/@dear/)** &nbsp; · &nbsp; **[프로젝트 둘러보기 ↗](https://github.com/dearyour?tab=repositories)**
 
 </div>
 
