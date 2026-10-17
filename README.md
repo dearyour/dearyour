@@ -34,9 +34,9 @@ React · Next.js · TypeScript로 웹을 만들고, 새로운 인터랙션과 �
 
 <p align="center">
   <a href="https://github.com/dearyour/hyperframe-reference-studio"><img src="./assets/hyperframes.svg" width="400" alt="HyperFrames Reference Studio — 레퍼런스 기반 모션 그래픽, SRT 타이밍, MP4 렌더링" /></a>
-  <a href="https://github.com/jobko-food-map/jobko-food-map-fe"><img src="./assets/food-map.svg" width="400" alt="Food Map — 잡코리아·알바몬 사우들의 맛집 지도" /></a>
+  <a href="https://github.com/dearyour/brain-html"><img src="./assets/brain-html.svg" width="400" alt="brain-html — 지식 그래프, 레이더, 지구본 등 다섯 가지 인터랙티브 HTML 시각화" /></a>
   <a href="https://github.com/dearyour/Seonbee"><img src="./assets/seonbee.svg" width="400" alt="Seonbee — SSAFY Final Project, TypeScript 팀 프로젝트" /></a>
-  <a href="https://github.com/dearyour/ondo"><img src="./assets/ondo.svg" width="400" alt="ondo — 함께 이어가는 SNS형 3일 챌린지 서비스" /></a>
+  <a href="https://github.com/dearyour/biolem-support"><img src="./assets/biolem-support.svg" width="400" alt="시간의무덤 (biolem) — 고객 지원 및 개인정보처리방침" /></a>
 </p>
 
 <br />

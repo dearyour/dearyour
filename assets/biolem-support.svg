@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="244" viewBox="0 0 440 244" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">시간의무덤 — biolem Support &amp; Privacy</title><desc id="desc">시간의무덤 (biolem) 고객 지원 및 개인정보처리방침</desc>
+<defs><radialGradient id="glow"><stop stop-color="#FDA4AF" stop-opacity=".12"/><stop offset="1" stop-color="#FDA4AF" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="438" height="230" rx="18" fill="#0D1422" stroke="#2C3549"/>
+<path d="M24 1h102" stroke="#FDA4AF" stroke-width="2"/>
+<ellipse cx="375" cy="64" rx="100" ry="105" fill="url(#glow)"/>
+<g stroke="#FDA4AF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".55"><path d="M370 29l29 11v24c0 19-13 33-29 42-16-9-29-23-29-42V40Z"/><path d="m357 65 9 9 18-21"/></g>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+ <text x="26" y="35" fill="#FDA4AF" font-family="'SFMono-Regular',Consolas,monospace" font-size="10.5" letter-spacing="1.5">04 / SUPPORT &amp; PRIVACY</text>
+ <text x="25" y="82" fill="#F1F5F9" font-size="32" font-weight="700" letter-spacing="-.8">시간의무덤</text>
+ <text x="27" y="107" fill="#A7B3C9" font-size="15">biolem · Support &amp; Privacy</text>
+ <text x="27" y="147" fill="#D0D8E6" font-size="16">시간의무덤 이용자를 위한</text>
+ <text x="27" y="172" fill="#D0D8E6" font-size="16">고객 지원 및 개인정보처리방침</text>
+ <text x="27" y="209" fill="#FDA4AF" font-family="'SFMono-Regular',Consolas,monospace" font-size="10.5" letter-spacing="1">HTML · SUPPORT</text>
+ <path d="M389 203h15m-6-6 6 6-6 6" stroke="#FDA4AF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
