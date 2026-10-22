@@ -6,7 +6,7 @@
 
 ### AI 
 
-React · Next.js · TypeScript로 웹을 만들고, 새로운 인터랙션과 도구를 실험합니다.</p>
+새로운 인터랙션과 도구를 실험합니다.</p>
 
 
 </div>
@@ -24,7 +24,7 @@ React · Next.js · TypeScript로 웹을 만들고, 새로운 인터랙션과 �
   <img src="./assets/react-query.svg" height="34" alt="React Query" />
 </p>
 
-컴포넌트부터 상태 관리까지, 사용자와 맞닿는 경험을 만듭니다.
+
 
 <br />
 
